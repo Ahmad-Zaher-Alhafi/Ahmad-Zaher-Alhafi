@@ -15,17 +15,28 @@ I'm Zaher a game developer, and guess what, I'm a full-stack web developer too �
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML Logo" width="50" height="50" />
 </div>
 
+# 🔭 I’m currently working on ...
+💻Developing full-stack apps and improving my web dev skills, my last project was <a href="https://mydisbook.netlify.app/">Disbook</a>
+<br>
+Check my pinned GitHub branches to see my other web projects
+<br>
+<br>
+🎮 Here is my game dev portfolio: <a href="https://zaherha.itch.io/">itch.io</a>
+
+# 📫 How to reach me
+You can contact me either by email: z1_ahmad@hotmail.com
+Or through <a href="https://www.linkedin.com/in/zaher-ha/">LinkedIn</a>
 <!--
 **Ahmad-Zaher-Alhafi/Ahmad-Zaher-Alhafi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+-
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
