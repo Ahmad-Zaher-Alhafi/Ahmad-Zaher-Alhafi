@@ -2,9 +2,13 @@
 I'm Zaher a game developer, and guess what, I'm a full-stack web developer too 😉
 
 # 🔭 I’m currently working on ...
-💻Developing full-stack apps and improving my web dev skills, my last project was <a href="https://mydisbook.netlify.app/">Disbook</a>
+💻<br>
+Developing full-stack apps and improving my web dev skills <br>
+My last projects were: <br>
+- <a href="https://mydisbook.netlify.app/">Disbook</a>
+- <a href="https://clever-nougat-3e5b61.netlify.app/">CV Builder</a>
 <br>
-Check my pinned GitHub branches to see my other web projects
+Check my pinned GitHub branches down below to see my other web projects
 <br>
 <br>
 🎮 Here is my game dev portfolio: <a href="https://zaherha.itch.io/">itch.io</a>
