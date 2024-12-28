@@ -1,3 +1,5 @@
+<img src="https://github.com/user-attachments/assets/b747f0f1-f435-4600-b687-c308d1286b40" alt="Unity Logo" />
+
 ## Hi there 👋
 I'm Zaher a game developer, and guess what, I'm a full-stack web developer too 😉
 
