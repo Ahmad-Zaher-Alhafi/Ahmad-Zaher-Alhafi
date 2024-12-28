@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Zaher a game developer, and guess what, I'm a full-stack web developer too ;)
+I'm Zaher a game developer, and guess what, I'm a full-stack web developer too 😉
 
 # Tools I use
 <div>
