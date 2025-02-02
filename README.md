@@ -12,9 +12,6 @@ My last projects were: <br>
 - <a href="https://clever-nougat-3e5b61.netlify.app/">CV Builder</a>
 <br>
 Check my pinned GitHub branches down below to see my other web projects
-<br>
-<br>
-🎮 Here is my game dev portfolio: <a href="https://zaherha.itch.io/">itch.io</a>
 
 # Tools I use
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,express,tailwind,prisma,postgres,nextjs,react,unity,unreal,rider,vscode)](https://skillicons.dev)
